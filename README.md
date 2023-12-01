@@ -11,6 +11,7 @@ Repo for PyTorch learning!! 🤗
 * [torch.nn.Module](https://pytorch.org/docs/stable/generated/torch.nn.Module.html)
 * [loss-functions](https://pytorch.org/docs/stable/nn.html#loss-functions)
 * [optimizers](https://pytorch.org/docs/stable/optim.html#algorithms)
+  * [optimizers.zero_grad](https://pytorch.org/docs/stable/generated/torch.optim.Optimizer.zero_grad.html)
 * [Datasets](https://pytorch.org/text/stable/datasets.html)
   * [dbpedia](https://pytorch.org/text/stable/datasets.html#dbpedia)
   * [data_utils](https://pytorch.org/text/stable/data_utils.html) 
