@@ -13,3 +13,4 @@ Repo for PyTorch learning!! 🤗
 * [optimizers](https://pytorch.org/docs/stable/optim.html#algorithms)
 * [Datasets](https://pytorch.org/text/stable/datasets.html)
   * [dbpedia](https://pytorch.org/text/stable/datasets.html#dbpedia)
+  * [data_utils](https://pytorch.org/text/stable/data_utils.html) 
