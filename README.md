@@ -4,7 +4,7 @@ Repo for PyTorch learning!! 🤗
 ## Deep Learning must read
 * [deeplearningbook](https://www.deeplearningbook.org/contents/convnets.html)
 
-## Important links
+## Important links 😎
 * [pytorch](https://pytorch.org/)
 * [Tensor Atributes](https://pytorch.org/docs/stable/tensor_attributes.html)
 * [torch.Tensor.types](https://pytorch.org/docs/stable/generated/torch.Tensor.type.html)
